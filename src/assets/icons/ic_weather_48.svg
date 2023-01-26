@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="ic_weather_48" transform="translate(574 489)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="48" height="48" transform="translate(-574 -489)" fill="#ffd2d2" opacity="0"/>
+    <g id="Group_62" data-name="Group 62" transform="translate(28.83 -15.8)">
+      <path id="Path_50" data-name="Path 50" d="M297.984,1067.923a12.31,12.31,0,0,1-7.784,7.063,7.321,7.321,0,0,0-1.355-2.547,7.822,7.822,0,0,0-1.528-1.451,8.927,8.927,0,0,0-5.266-1.691,8.425,8.425,0,0,0-.874,0v-.1a7.774,7.774,0,0,0-5.266-7.169,8.742,8.742,0,0,0-1.451-.413,12.252,12.252,0,0,1,9.158-10.34,12.275,12.275,0,0,0,14.366,16.643Z" transform="translate(-854.17 -1522.48)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_51" data-name="Path 51" d="M289.257,1076.938c0,4.276-3.844,7.755-8.456,7.755H259.536a8.456,8.456,0,0,1-8.389-7.284,7.591,7.591,0,0,1-.077-1.134,8.447,8.447,0,0,1,8.466-8.408,8.34,8.34,0,0,1,3.469.74c.3-4.036,3.978-7.217,8.447-7.217a8.917,8.917,0,0,1,3.2.586,7.774,7.774,0,0,1,5.256,7.168v.1a8.6,8.6,0,0,1,.874,0,8.918,8.918,0,0,1,5.266,1.682,7.691,7.691,0,0,1,1.528,1.451,7.3,7.3,0,0,1,1.682,4.565Z" transform="translate(-852.9 -1522.395)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_52" data-name="Path 52" d="M263.4,1085.292s9.1.125,13.991,0c4.43-.115,5.564-4.257,4.43-6.111s-5.2-1.019-4.017,2.277" transform="translate(-853.382 -1523.052)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_53" data-name="Path 53" d="M265.85,1092.33H277.5c2.806,0,4.545,1.634,4.142,3.277" transform="translate(-853.477 -1523.604)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_54" data-name="Path 54" d="M262.88,1089.258s13.088-.1,19.219,0c3.286.048,4.68,1.922,4.68,3.623a4.439,4.439,0,0,1-2.518,4.007" transform="translate(-853.361 -1523.482)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

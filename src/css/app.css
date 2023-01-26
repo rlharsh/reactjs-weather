@@ -1,0 +1,17 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css");
+body {
+  background-color: #0E0A1C;
+}
+
+.main {
+  max-width: 1440px;
+  min-width: 375px;
+  width: 100%;
+  padding: 4rem 8rem;
+  margin: 0 auto;
+}
+@media screen and (max-width: 1000px) {
+  .main {
+    padding: 1rem;
+  }
+}/*# sourceMappingURL=app.css.map */

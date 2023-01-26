@@ -1,0 +1,170 @@
+@import '../scss/vars.scss';
+
+body {
+    color:      $color-text;
+}
+
+.hero {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-top: 2rem;
+    background:     $color-div;
+    border-radius:  6px;
+    width:          100%;
+
+    display:        flex;
+    align-items:    center;
+
+    &__weather-card {
+        padding: 2rem;
+        padding-bottom: 2.2rem;
+        width: 100%;
+
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: normal;
+        align-items: normal;
+        align-content: normal;
+
+        @media screen and (max-width: $small) {
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        &__temp {
+            font-size:  $font-size-largest;
+            font-weight: $font-weight-normal;
+        }
+
+        &__weather-container {
+            
+            border-right: 1px solid $color-text-accent;
+            padding-right: 4rem;
+            display: flex;
+            align-items:  center;
+            gap: 2rem;
+
+            flex-grow: 0;
+            flex-shrink: 1;
+            flex-basis: auto;
+            align-self: auto;
+            order: 0;
+
+            @media screen and (max-width: $small) {
+                border: none;
+                align-self: center;
+            }
+
+            img {
+                width: 10rem;
+            }
+        }
+
+        &__weather-status-container {
+            display: flex;
+            flex-direction: column;
+
+            p {
+                text-align: center;
+                text-transform: capitalize;
+                font-weight:    $font-weight-normal;
+                font-size: $font-size-small;
+                letter-spacing: 0.6rem;
+            }
+
+            &__temp {
+                font-size:      $font-size-largest !important;
+                letter-spacing: 0.1rem !important;
+            }
+        }
+
+        &__weather-information {
+            display: grid; 
+            grid-template-columns: 20% 20% 20%; 
+            grid-template-rows: 50% 50%; 
+            gap: 1rem 1rem; 
+            grid-template-areas: 
+              ". . ."
+              ". . ."; 
+
+            flex-grow: 1;
+            flex-shrink: 1;
+            flex-basis: auto;
+            align-self: auto;
+            order: 0;
+            align-items: center;
+            justify-content: center;
+            
+
+            div {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+
+                h2 {
+                    font-size: $font-size-medium;
+                    color: $color-text-accent;
+
+                    margin-top: 0.4rem;
+                    @media screen and (max-width: $small) {
+                        font-size: 5vw;
+                    }
+                }
+
+                p {
+                    margin-top: 0.4rem;
+                    @media screen and (max-width: $small) {
+                        font-size: 3vw;
+                        white-space: nowrap;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.location {
+    width:              100%;
+
+    display:            flex;
+    justify-content: space-between;
+
+    @media screen and (max-width: $small) {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    h1 {
+        font-size:      $font-size-medium;
+        font-weight:    $font-weight-thin;
+        color:          $color-text-accent;
+    }
+
+    p {
+        margin-top:     0.2rem;
+        font-weight:    $font-weight-normal;
+        font-size:      $font-size-small;
+    }
+
+    &__date {
+        display:        flex;
+        flex-direction: column;
+        gap:            0.2rem;
+
+        @media screen and (max-width: $small) {
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        p {
+            text-align: right;
+
+            @media screen and (max-width: $small) {
+                text-align: left;
+            }
+        }
+    }
+}

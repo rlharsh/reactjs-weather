@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="ic_weather_41" transform="translate(672 587)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="48" height="48" transform="translate(-672 -587)" fill="#ffd2d2" opacity="0"/>
+    <g id="Group_55" data-name="Group 55" transform="translate(30.88 -14.91)">
+      <path id="Path_134" data-name="Path 134" d="M190.418,965.218a6.683,6.683,0,0,1-2.979,5.486,8.748,8.748,0,0,0-5.166-1.65,8.4,8.4,0,0,0-.858,0v-.094a7.626,7.626,0,0,0-5.156-7.032,7.635,7.635,0,0,1,6.6-3.639C187.044,958.328,190.418,961.419,190.418,965.218Z" transform="translate(-854.348 -1522.423)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_185" data-name="Line 185" y2="3.252" transform="translate(-671.461 -571.09)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_186" data-name="Line 186" x2="2.507" y2="2.3" transform="translate(-682.179 -567.018)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_187" data-name="Line 187" x2="2.517" y2="2.3" transform="translate(-661.997 -550.135)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_188" data-name="Line 188" x2="3.554" transform="translate(-659.848 -557.205)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_189" data-name="Line 189" y1="2.3" x2="2.507" transform="translate(-663.251 -567.018)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_190" data-name="Line 190" y2="3.299" transform="translate(-692.416 -537.957)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_191" data-name="Line 191" y2="3.299" transform="translate(-692.416 -529.784)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_192" data-name="Line 192" y2="3.299" transform="translate(-688.099 -535.167)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_193" data-name="Line 193" y2="3.299" transform="translate(-688.099 -528.389)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_135" data-name="Path 135" d="M188.47,976.452c0,4.195-3.77,7.607-8.3,7.607H159.324a8.3,8.3,0,0,1-8.229-7.145,7.454,7.454,0,0,1-.075-1.112,8.286,8.286,0,0,1,8.3-8.248,8.181,8.181,0,0,1,3.4.726c.292-3.959,3.9-7.079,8.286-7.079a8.747,8.747,0,0,1,3.139.575,7.626,7.626,0,0,1,5.156,7.032v.094a8.343,8.343,0,0,1,.858,0,8.748,8.748,0,0,1,5.166,1.65,7.542,7.542,0,0,1,1.5,1.423,7.164,7.164,0,0,1,1.64,4.477Z" transform="translate(-852.9 -1522.591)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_136" data-name="Path 136" d="M163.35,984.967s8.927.123,13.725,0c4.345-.113,5.458-4.176,4.345-6s-5.1-1-3.94,2.234" transform="translate(-853.607 -1523.556)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_137" data-name="Path 137" d="M171.41,992.15h6.127c2.752,0,4.459,1.6,4.063,3.214" transform="translate(-854.07 -1524.366)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Path_138" data-name="Path 138" d="M170.82,989.078s7.183-.094,13.2,0c3.224.047,4.591,1.885,4.591,3.554a4.355,4.355,0,0,1-2.536,3.912" transform="translate(-854.036 -1524.188)" fill="none" stroke="#EBA53C" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
