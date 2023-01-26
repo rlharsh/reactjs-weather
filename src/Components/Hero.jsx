@@ -155,7 +155,7 @@ const Hero = (props) => {
             <div className='hero'>
                 <div className="hero__weather-card">
                     <div className="hero__weather-card__weather-container">
-                        <img src={weatherIcon} alt="icon" />
+                        <img className="hero__weather-card__weather-container__image" src={weatherIcon} alt="icon" />
                         <div className="hero__weather-card__weather-status-container">
                             <p className='hero__weather-card__weather-status-container__temp'>{temp | 0}F</p>
                             <p>{weatherDescription}</p>

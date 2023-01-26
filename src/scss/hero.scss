@@ -29,6 +29,7 @@ body {
         @media screen and (max-width: $small) {
             flex-direction: column;
             gap: 2rem;
+            padding-bottom: 8rem;
         }
 
         &__temp {
@@ -50,13 +51,23 @@ body {
             align-self: auto;
             order: 0;
 
-            @media screen and (max-width: $small) {
-                border: none;
-                align-self: center;
+            &__image {
+                width: 10rem;
+
+                @media screen and (max-width: $small) {
+                    width: 50%;
+                }
             }
 
-            img {
-                width: 10rem;
+            @media screen and (max-width: $small) {
+                flex-direction: column;
+                border: none;
+                align-self: center;
+                margin: 0;
+                width: 100%;
+                justify-content: center;
+                align-items: center;
+                padding: 0;
             }
         }
 

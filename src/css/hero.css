@@ -27,6 +27,7 @@ body {
   .hero__weather-card {
     flex-direction: column;
     gap: 2rem;
+    padding-bottom: 8rem;
   }
 }
 .hero__weather-card__temp {
@@ -45,14 +46,25 @@ body {
   align-self: auto;
   order: 0;
 }
+.hero__weather-card__weather-container__image {
+  width: 10rem;
+}
 @media screen and (max-width: 1000px) {
-  .hero__weather-card__weather-container {
-    border: none;
-    align-self: center;
+  .hero__weather-card__weather-container__image {
+    width: 50%;
   }
 }
-.hero__weather-card__weather-container img {
-  width: 10rem;
+@media screen and (max-width: 1000px) {
+  .hero__weather-card__weather-container {
+    flex-direction: column;
+    border: none;
+    align-self: center;
+    margin: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+  }
 }
 .hero__weather-card__weather-status-container {
   display: flex;
